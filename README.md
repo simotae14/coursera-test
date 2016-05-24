@@ -9,4 +9,8 @@ List of samples:
     - [div-e-span.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione05/div-e-span)
     - [elementi-semantici.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione06/elementi-semantici)
     - [headings.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione06/headings)
+    - [pre-lista-non-ordinata.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione07/pre-lista-non-ordinata)
+    - [post-lista-non-ordinata.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione07/post-lista-non-ordinata)
+    - [pre-lista-ordinata.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione07/pre-lista-ordinata)
+    
     
