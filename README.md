@@ -14,3 +14,7 @@ List of samples:
     - [pre-lista-ordinata.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione07/pre-lista-ordinata)
     - [pre-html-entity.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione08/pre-html-entity)
     - [post-html-entity.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione08/post-html-entity)
+    - [link-esterni.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione09/link-esterni)
+    - [link-interni.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione09/link-interni)
+    - [link-stessa-pagina.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione09/link-stessa-pagina)
+    - [stessa-directory.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione09/stessa-directory)
