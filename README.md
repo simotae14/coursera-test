@@ -12,5 +12,5 @@ List of samples:
     - [pre-lista-non-ordinata.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione07/pre-lista-non-ordinata)
     - [post-lista-non-ordinata.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione07/post-lista-non-ordinata)
     - [pre-lista-ordinata.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione07/pre-lista-ordinata)
-    
-    
+    - [pre-html-entity.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione07/pre-html-entity)
+    - [post-html-entity.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione07/post-html-entity)
