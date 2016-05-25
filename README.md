@@ -19,3 +19,5 @@ List of samples:
     - [link-stessa-pagina.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione09/link-stessa-pagina)
     - [stessa-directory.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione09/stessa-directory)
     - [immagini.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione10/immagini)
+- css samples:
+    - [sintassi-css.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione12/sintassi-css)
