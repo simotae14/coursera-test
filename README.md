@@ -21,3 +21,5 @@ List of samples:
     - [immagini.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione10/immagini)
  - css samples:
     - [sintassi-css.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione12/sintassi-css)
+    - [pre-selettori-semplici.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione13/pre-selettori-semplici)
+    - [post-selettori-semplici.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione13/post-selettori-semplici)
