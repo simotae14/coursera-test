@@ -31,3 +31,4 @@ List of samples:
     - [post-selettore-discendente.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione14/post-selettore-discendente)
     - [pre-pseudo-selector.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione15/pre-pseudo-selector)
     - [post-pseudo-selector.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione15/post-pseudo-selector)
+    - [posizionare-stile.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione16/posizionare-stile)
