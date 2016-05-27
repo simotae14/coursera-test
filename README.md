@@ -37,3 +37,5 @@ List of samples:
     - [specificita.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione17/specificita)
     - [pre-stile-testo.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione18/pre-stile-testo)
     - [post-stile-testo.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione18/post-stile-testo)
+    - [pre-font-size.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione18/pre-font-size)
+    - [post-font-size.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione18/post-font-size)
