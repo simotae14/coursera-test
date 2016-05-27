@@ -29,3 +29,5 @@ List of samples:
     - [post-selettore-child.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione14/post-selettore-child)
     - [pre-selettore-discendente.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione14/pre-selettore-discendente)
     - [post-selettore-discendente.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione14/post-selettore-discendente)
+    - [pre-pseudo-selector.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione15/pre-pseudo-selector)
+    - [post-pseudo-selector.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione15/post-pseudo-selector)
