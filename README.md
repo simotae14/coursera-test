@@ -35,3 +35,5 @@ List of samples:
     - [origine.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione17/origine)
     - [ereditarieta.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione17/ereditarieta)
     - [specificita.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione17/specificita)
+    - [pre-stile-testo.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione18/pre-stile-testo)
+    - [post-stile-testo.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione18/post-stile-testo)
