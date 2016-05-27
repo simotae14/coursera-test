@@ -32,3 +32,5 @@ List of samples:
     - [pre-pseudo-selector.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione15/pre-pseudo-selector)
     - [post-pseudo-selector.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione15/post-pseudo-selector)
     - [posizionare-stile.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione16/posizionare-stile)
+    - [origine.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione17/origine)
+    - [ereditarieta.html](http://simotae14.github.io/coursera-test/esempi_lezioni/lezione17/ereditarieta)
